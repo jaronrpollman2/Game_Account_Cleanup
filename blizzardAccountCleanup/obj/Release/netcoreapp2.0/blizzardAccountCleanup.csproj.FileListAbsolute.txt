@@ -1,0 +1,10 @@
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\bin\Release\netcoreapp2.0\blizzardAccountCleanup.deps.json
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\bin\Release\netcoreapp2.0\blizzardAccountCleanup.runtimeconfig.json
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\bin\Release\netcoreapp2.0\blizzardAccountCleanup.runtimeconfig.dev.json
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\bin\Release\netcoreapp2.0\blizzardAccountCleanup.dll
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\bin\Release\netcoreapp2.0\blizzardAccountCleanup.pdb
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\obj\Release\netcoreapp2.0\blizzardAccountCleanup.csproj.CoreCompileInputs.cache
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\obj\Release\netcoreapp2.0\blizzardAccountCleanup.AssemblyInfoInputs.cache
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\obj\Release\netcoreapp2.0\blizzardAccountCleanup.AssemblyInfo.cs
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\obj\Release\netcoreapp2.0\blizzardAccountCleanup.dll
+C:\Users\Section 9\source\repos\blizzardAccountCleanup\blizzardAccountCleanup\obj\Release\netcoreapp2.0\blizzardAccountCleanup.pdb
