@@ -1,0 +1,1 @@
+﻿This program is developed to be ran as a service and it will periodically delete all the users data that has been cached.
